@@ -1,0 +1,12 @@
+.prd {
+  transition: 0.2s ease-in-out;
+}
+.prd:hover {
+  box-shadow: 2px 3px 10px rgba(52, 52, 52, 0.632);
+  transform: scale(1.03);
+  border-radius: 20px;
+}
+.suprt {
+  height: 8rem;
+  cursor: pointer;
+}

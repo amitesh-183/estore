@@ -1,0 +1,8 @@
+.caros {
+  height: 30rem;
+  transform: scale(1.8);
+}
+.capt {
+  text-shadow: 2px 3px 3px black;
+  font-weight: 400;
+}

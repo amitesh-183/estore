@@ -1,0 +1,9 @@
+.search {
+  outline: none;
+  box-shadow: none;
+}
+.navbr {
+  /* background-color: rgb(20, 215, 16); */
+  /* padding: 80rem; */
+  box-shadow: 0.01px 0.02px 5px grey;
+}

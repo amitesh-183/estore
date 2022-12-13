@@ -1,0 +1,6 @@
+.serv {
+  display: inline-flexbox;
+  padding-left: 8rem;
+  /* border-right: 0.1px solid rgb(180, 180, 180); */
+  margin: 2rem auto;
+}

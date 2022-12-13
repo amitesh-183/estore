@@ -1,0 +1,16 @@
+.bd {
+  border-top: 1px solid rgba(195, 195, 195, 0.592);
+  width: 100%;
+}
+.logo {
+  height: 2rem;
+}
+.text-reset {
+  transition: 0.2s;
+}
+.text-reset:hover {
+  width: 40%;
+  transform: rotate(-123deg);
+  border-radius: 30px;
+  background-color: aquamarine;
+}

@@ -1,0 +1,58 @@
+.r-name {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.btn-prd {
+  width: 200px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  /* margin: 20px; */
+  /* height: 55px; */
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+  background-color: #2bb673;
+
+  /* border-radius: 10px; */
+  moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-prd:hover {
+  background-position: 100% 0;
+  moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+
+  background-image: linear-gradient(
+    to right,
+    #25aae1,
+    #40e495,
+    #30dd8a,
+    #2bb673
+  );
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+
+.btn-back {
+  color: #fff;
+  transition: 0.3s;
+  background-color: rgb(40, 119, 73);
+}
+.btn-back:hover {
+  background-color: rgb(61, 110, 79);
+  color: rgb(0, 0, 0);
+}
+
+.mrp {
+  font-size: 14px;
+}
+.pr {
+  font-size: 20px;
+}

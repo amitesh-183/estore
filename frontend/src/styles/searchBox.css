@@ -1,0 +1,15 @@
+.srch {
+  background-color: aliceblue;
+  border: 0.02px solid rgba(57, 57, 57, 0.168);
+}
+.srchbtn {
+  transition: 0.3s ease;
+  padding: 2px;
+  width: 3rem;
+  border-radius: 2px;
+  background-color: rgb(21, 149, 106);
+}
+.srchbtn:hover {
+  border-radius: 50px;
+  background-color: rgb(6, 224, 191);
+}
