@@ -18,11 +18,6 @@ In conclusion, this final year project showcases the integration of Django and R
 - [@amitesh-183](https://www.github.com/amitesh-183)
 
 
-## Appendix
-
-Any additional information goes here
-
-
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
